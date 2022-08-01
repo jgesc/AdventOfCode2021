@@ -8,7 +8,7 @@ import (
 )
 
 const MAX_U64 = uint64(18446744073709551615)
-const INPUT_PATH = "resources/day1_input.txt"
+const INPUT_PATH = "input.txt"
 
 func parseInput(inputPath string) []uint64 {
 	var inputDepths []uint64
