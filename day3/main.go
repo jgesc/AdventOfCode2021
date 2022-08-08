@@ -112,7 +112,7 @@ func filterNumbers(diagnosticNumbers []uint16, bitCriteria BitCriteria) uint {
 func main() {
 	fmt.Print(
 		"--- Advent of Code 2021 ---\n",
-		"          Day   2          \n",
+		"          Day   3          \n",
 		"                           \n",
 		"          Part  A          \n")
 
